@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PruebaTecnia.net7.props" />
+</Project>

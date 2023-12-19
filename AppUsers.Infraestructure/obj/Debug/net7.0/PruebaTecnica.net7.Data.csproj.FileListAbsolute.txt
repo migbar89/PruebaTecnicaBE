@@ -1,0 +1,14 @@
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\bin\Debug\net7.0\PruebaTecnica.net7.Data.deps.json
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\bin\Debug\net7.0\PruebaTecnica.net7.Data.runtimeconfig.json
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\bin\Debug\net7.0\PruebaTecnica.net7.Data.dll
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\bin\Debug\net7.0\PruebaTecnica.net7.Data.pdb
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\PruebaTecnica.net7.Data.csproj.AssemblyReference.cache
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\PruebaTecnica.net7.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\PruebaTecnica.net7.Data.AssemblyInfoInputs.cache
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\PruebaTecnica.net7.Data.AssemblyInfo.cs
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\PruebaTecnica.net7.Data.csproj.CoreCompileInputs.cache
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\PruebaTecnica.net7.Data.dll
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\refint\PruebaTecnica.net7.Data.dll
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\PruebaTecnica.net7.Data.pdb
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\PruebaTecnica.net7.Data.genruntimeconfig.cache
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\PruebaTecnica.net7.Data\obj\Debug\net7.0\ref\PruebaTecnica.net7.Data.dll

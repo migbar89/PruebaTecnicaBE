@@ -1,0 +1,11 @@
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\bin\Debug\net7.0\AppUsers.Dominio.deps.json
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\bin\Debug\net7.0\AppUsers.Dominio.dll
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\bin\Debug\net7.0\AppUsers.Dominio.pdb
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\obj\Debug\net7.0\AppUsers.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\obj\Debug\net7.0\AppUsers.Dominio.AssemblyInfoInputs.cache
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\obj\Debug\net7.0\AppUsers.Dominio.AssemblyInfo.cs
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\obj\Debug\net7.0\AppUsers.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\obj\Debug\net7.0\AppUsers.Dominio.dll
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\obj\Debug\net7.0\refint\AppUsers.Dominio.dll
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\obj\Debug\net7.0\AppUsers.Dominio.pdb
+C:\Users\Miguel B\Desktop\Prueba Tecnica\PruebaTecnia.net7\AppUsers.Dominio\obj\Debug\net7.0\ref\AppUsers.Dominio.dll
